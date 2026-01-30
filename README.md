@@ -3,16 +3,11 @@ The Console Based Calculator is a menu-driven application developed to perform b
 This project demonstrates core programming concepts such as conditional statements, loops, user input handling, and basic error handling (like division by zero). It serves as a foundational project for beginners learning programming logic and problem-solving skills.
 
 🔹 Key Features
-
-Addition, subtraction, multiplication, and division
-
-Menu-driven console interface
-
-User-friendly input and output
-
-Handles invalid input and division by zero
-
-Lightweight and easy to run
+- Addition, subtraction, multiplication, and division
+- Menu-driven console interface
+- User-friendly input and output
+- Handles invalid input and division by zero
+- Lightweight and easy to run
 
 <img width="458" height="402" alt="image" src="https://github.com/user-attachments/assets/54739676-8012-421d-b9ac-4af675e0e62b" />
 <img width="358" height="299" alt="image" src="https://github.com/user-attachments/assets/03fd5230-42a6-47e4-95df-f7cc755c05cd" />
