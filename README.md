@@ -1,4 +1,3 @@
-# Console_based_calculator
 The Console Based Calculator is a menu-driven application developed to perform basic arithmetic calculations using a command-line interface. The user can select operations like addition, subtraction, multiplication, and division by entering their choice. The program processes user input, performs the selected calculation, and displays the result on the console.
 This project demonstrates core programming concepts such as conditional statements, loops, user input handling, and basic error handling (like division by zero). It serves as a foundational project for beginners learning programming logic and problem-solving skills.
 
